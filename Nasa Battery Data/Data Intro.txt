@@ -1,0 +1,1 @@
+This folder contains the excel files for each battery cycle. They have been imported from their original Matlab structure
